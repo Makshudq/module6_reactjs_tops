@@ -1,0 +1,22 @@
+{
+  "userDatabase": [
+    {
+      "id": "f1be",
+      "fname": "Mak1",
+      "lname": "Qrs",
+      "email": "manna@gmail.com"
+    },
+    {
+      "fname": "makshud2",
+      "lname": "singh",
+      "email": "sing@yahoo.com",
+      "id": "968e"
+    },
+    {
+      "id": "6ce8",
+      "fname": "rahul",
+      "lname": "patel",
+      "email": "prahul@hotmail.com"
+    }
+  ]
+}
